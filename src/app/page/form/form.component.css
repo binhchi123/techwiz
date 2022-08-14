@@ -1,0 +1,44 @@
+.container-fluid {
+    width: 80%;
+}
+
+.form-left {
+    background: #000000;
+    height: 600px;
+}
+
+.form-gr {
+    margin-left: 65px;
+}
+
+.form-gr-add {
+    margin-top: 200px;
+    margin-left: 65px;
+}
+
+.form-left span {
+    color: white;
+    font-size: 17px;
+}
+
+.form-left p {
+    color: rgba(10, 241, 53, 0.667);
+    font-size: 12px;
+}
+
+.fa-phone,
+.fa-location-dot,
+.fa-envelope {
+    width: 36px;
+    height: 36px;
+    color: white;
+}
+
+.form-right h2 {
+    text-align: center;
+}
+
+.but {
+    display: block;
+    margin: 0 auto;
+}
